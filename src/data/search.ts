@@ -27,7 +27,7 @@ export const searchCards = [
   {
     title: "Next JS is the best framework for React",
     description:
-      "In this article you will learn about the benefits of Next JS and why it's the best",
+      "In this article you will learn about the benefits of Next JS and why it's the best for your project.",
     tags: ["learning", "coding"],
     url: "#",
   },
@@ -89,6 +89,80 @@ export const searchCards = [
     title: "Building Static Sites with Hugo",
     description: "Learn how to build fast and secure static sites using Hugo.",
     tags: ["hugo", "static sites"],
+    url: "#",
+  },
+  {
+    title: "React Best Practices",
+    description: "Learn the best practices for building React applications.",
+    tags: ["react", "best practices"],
+    url: "#",
+  },
+  {
+    title: "Java for Beginners",
+    description: "A comprehensive guide to getting started with Java.",
+    tags: ["java", "beginners"],
+    url: "#",
+  },
+  {
+    title: "JavaScript ES6 Features",
+    description: "Explore the new features introduced in JavaScript ES6.",
+    tags: ["javascript", "es6"],
+    url: "#",
+  },
+  {
+    title: "C++ for Game Development",
+    description: "Learn how to use C++ for developing high-performance games.",
+    tags: ["c++", "game development"],
+    url: "#",
+  },
+  {
+    title: "Building Websites with WordPress",
+    description: "A guide to building and managing websites using WordPress.",
+    tags: ["wordpress", "web development"],
+    url: "#",
+  },
+  {
+    title: "Magento for E-commerce",
+    description: "Learn how to build e-commerce sites using Magento.",
+    tags: ["magento", "e-commerce"],
+    url: "#",
+  },
+  {
+    title: "Nuxt.js for Server-Side Rendering",
+    description: "An introduction to using Nuxt.js for server-side rendering.",
+    tags: ["nuxt", "server-side rendering"],
+    url: "#",
+  },
+  {
+    title: "HTML5 New Features",
+    description: "Explore the new features introduced in HTML5.",
+    tags: ["html", "html5"],
+    url: "#",
+  },
+  {
+    title: "Sass for Efficient Styling",
+    description:
+      "Learn how to use Sass for efficient and maintainable styling.",
+    tags: ["sass", "styling"],
+    url: "#",
+  },
+  {
+    title: "Styled Components in React",
+    description: "A guide to using styled components in React applications.",
+    tags: ["styled components", "react"],
+    url: "#",
+  },
+  {
+    title: "SCSS vs Sass",
+    description: "Understand the differences between SCSS and Sass.",
+    tags: ["scss", "sass"],
+    url: "#",
+  },
+  {
+    title: "BigCommerce for Large-Scale E-commerce",
+    description:
+      "Learn how to use BigCommerce for large-scale e-commerce sites.",
+    tags: ["bigcommerce", "e-commerce"],
     url: "#",
   },
 ];
